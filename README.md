@@ -2,7 +2,7 @@
 
 Windows user, WSL2 enjoyer 😎
 
-My name is, as you may have guessed, Gonzalo and I'm a sixth year computer engineer student. I'm currently interested in web development but I like software engineering in general.
+My name is, as you may have guessed, Gonzalo and I'm a sixth year computer engineer student. I'm currently interested in web development but I like software engineering in general. I work at Reite as a software engineer.
 
 ------
 ## My stack:
