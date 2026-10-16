@@ -6,7 +6,7 @@ Trabajo en [Revi](https://ia-revi.cl). En mi tiempo libre mantengo un servidor d
 
 | | |
 |---|---|
-| Repos con 0 estrellas | 9 de 10 |
+| Repos con 0 estrellas | 10 de 11 |
 | Servidores de Minecraft hibernando ahora | probablemente 1 |
 | Correos borrados con [gmail-cleaner-cli](https://github.com/gonzalo-saavedra-m/gmail-cleaner-cli) | más de los que he leído |
 
