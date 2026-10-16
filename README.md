@@ -21,6 +21,8 @@
 ⢀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
+[gonzalodev.cl](https://gonzalodev.cl) · [bipbop.cl](https://bipbop.cl)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gonzalo-saavedra-m/gonzalo-saavedra-m/output/snake-dark.svg">
   <img alt="Culebrita comiéndose mis contribuciones" src="https://raw.githubusercontent.com/gonzalo-saavedra-m/gonzalo-saavedra-m/output/snake.svg">
