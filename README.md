@@ -1,14 +1,25 @@
-### Hola, soy Gonzalo
-
-Trabajo en [Revi](https://ia-revi.cl). En mi tiempo libre mantengo un servidor de Minecraft para 4 amigos y vibecodeo cosas útiles for fun.
-
-**Estadísticas verificadas por nadie**
-
-| | |
-|---|---|
-| Repos con 0 estrellas | 10 de 11 |
-| Servidores de Minecraft hibernando ahora | probablemente 1 |
-| Correos borrados con [gmail-cleaner-cli](https://github.com/gonzalo-saavedra-m/gmail-cleaner-cli) | más de los que he leído |
+```text
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠄⡂⠕⠀⠅⢉⠐⠠⠑⠢⠉⠆⢂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⡠⠐⠐⢀⢀⠀⡈⠀⠐⢈⠀⠂⢀⠁⢈⠘⡡⢠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠰⢁⠐⠀⡁⠁⢀⠐⠈⠀⡀⣁⢀⠀⠐⠀⠂⠀⠀⠔⠐⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢆⠁⠀⡀⢠⣷⣍⣾⣦⣶⣾⣿⣧⣤⣀⣄⡌⠀⠁⠀⠀⠔⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   gonzalo@github
+⠀⠀⠀⠀⠀⠀⠀⠈⡂⠀⠁⠀⣾⣿⡿⡿⣿⣿⡟⡉⣠⣤⣆⡮⣿⡄⠁⠀⠈⢀⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ──────────────
+⠀⠀⠀⠀⠀⠀⠀⠀⢑⠠⠀⠄⢞⢠⣤⡤⡄⢻⣿⡪⡊⣄⢥⣽⣿⣿⡄⢠⡂⠀⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   OS            Ing. Civil en Computación · U. de Chile
+⠀⠀⠀⠀⠀⠀⠀⠀⠁⡆⠀⠀⢿⣘⢄⢆⣮⢮⣿⣿⣿⠾⣿⣿⣿⣿⣇⣰⢹⢘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Host          Santiago, Chile
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢅⢄⠸⣿⣿⣿⢟⡛⡙⢯⢮⣿⣖⡍⣟⣿⣿⠾⠛⡐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Kernel        full-stack · backend-heavy
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⣃⢻⣻⡣⠫⠟⣪⡭⣵⡲⣢⣾⣾⣿⡿⡅⠐⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Trabajo       Revi (ia-revi.cl)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠣⠳⡻⣽⣶⣼⣘⣪⣾⣿⣿⡿⡓⣱⣇⠔⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Tiempo libre  un servidor de Minecraft para 4 amigos
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠩⡙⠿⡿⡿⠟⠟⠝⠋⣔⣼⣿⣿⠀⢢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                 vibecodear cosas útiles for fun
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⢳⡄⠄⢀⢀⢠⣢⣿⣷⣿⣿⣿⡇⢀⠑⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀   Stack         python · typescript · aws · docker
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠜⠀⠈⢯⣯⡆⡅⡝⢿⢿⣿⣿⣿⣟⠌⡀⠀⠈⡐⠂⠤⡀⡀⠀⠀⠀⠀   Estrellas     10 de 11 repos con 0
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠔⠐⡕⠁⠀⠀⠁⢗⢿⣪⢫⢿⡻⣿⣟⣗⢅⠔⡀⠀⠀⠀⠀⠀⠀⠈⠑⠐⢄⢀   Hibernando    probablemente 1 servidor
+⠀⠀⠀⠀⠀⠀⡀⠄⠂⠁⠀⠀⡜⡠⠊⢐⠀⠨⣸⣸⣻⣷⣷⢿⣿⡮⡢⠁⠀⠀⠑⠄⡁⠀⠀⠀⠀⠀⠀⠀⠀   Correos       más borrados que leídos
+⠀⠀⠀⡠⠂⠁⠀⠀⠀⠀⠀⠈⠊⠀⠀⠀⠈⠠⠀⡛⣿⣿⣿⣿⣿⠃⡐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⡐⠁⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⡊⢻⣿⡿⠡⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gonzalo-saavedra-m/gonzalo-saavedra-m/output/snake-dark.svg">
